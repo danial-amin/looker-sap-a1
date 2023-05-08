@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "sap_a1_trial"
+  value: "sap-looker"
   export: override_required
 }
 
