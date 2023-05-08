@@ -1,19 +1,19 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "sap_a1_trial"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project Name"
+  value: "sap-trial-385819"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "Reporting_DS"
   export: override_required
 }
 
 constant: CLIENT {
-  value: "Client ID"
+  value: "001"
   export: override_required
 }
