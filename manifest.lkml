@@ -4,7 +4,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "sap-trial-385819"
+  value: "sap-looker"
   export: override_required
 }
 
