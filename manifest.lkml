@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "sap-looker"
+  value: "sap_a1_trial"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "sap-looker"
+  value: "sap-trial-385819"
   export: override_required
 }
 
@@ -14,6 +14,6 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "800"
+  value: "100"
   export: override_required
 }
